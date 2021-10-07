@@ -16,6 +16,5 @@ git log --> Log der Änderungen anfragen...
 
 <br>
 <br>
-<br>
 
 git pull --> Änderungen anfragen
