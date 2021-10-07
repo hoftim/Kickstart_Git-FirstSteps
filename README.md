@@ -4,8 +4,18 @@
 
 Befehle:
 
-git status
-git add . 
-git commit -m "TEXT" (-m heißt message)
-git push
-git log
+git status --> Anfragen des Status
+<br>
+git add . --> Änderungen hinzufügen
+<br>
+git commit -m "TEXT" (-m heißt message) --> Änderungen committen
+<br>
+git push --> Änderungen pushen
+<br>
+git log --> Log der Änderungen anfragen...
+
+<br>
+<br>
+<br>
+
+git pull --> Änderungen anfragen
